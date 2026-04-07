@@ -135,9 +135,8 @@ homelab/
 
 Open to freelance work — VPS setup, self-hosting, secure networking.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your@email.com
-
+- GitHub: [@mehdi](https://github.com/Alpachino13)
+- Email: merabetzakariamehdi@gmail.com
 ---
 
 *Last updated: 2026*
